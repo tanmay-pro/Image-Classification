@@ -15,7 +15,7 @@ This repository contains the implementation of the Image Classification project 
 
 ## Objectives
 
-The goal of this poroject is to implement and optimize image classification techniques, including the SIFT-BoVW-SVM approach and deep learning models like Convolutional Neural Networks (CNNs) and Transformers. The project focuses on implementing these methods and analyzing their performance on the MNIST handwritten digit recognition dataset.
+This project aims to implement and optimize image classification techniques, including the SIFT-BoVW-SVM approach and deep learning models like Convolutional Neural Networks (CNNs) and Transformers. The project focuses on implementing these methods and analyzing their performance on the MNIST handwritten digit recognition dataset.
 
 ---
 
